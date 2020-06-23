@@ -1,1 +1,2 @@
-A website for my favourite character is currently being built here!
+# A OpenHPI Course Exercise for Git.
+## The very first Exercise.
